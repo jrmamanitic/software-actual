@@ -53,9 +53,9 @@ const Receipt: React.FC<ReceiptProps> = ({ order, total, username }) => {
       <th className="text-right">Metodos de Pago (Yape o Agora) :</th><br></br>
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '60vh'}}>
         
-      <img src="/src/yape.jpg" alt="Imagen centrada"width="400" height="200" />
+      <img src="yape.jpg" alt="Imagen centrada"width="400" height="200" />
       <th className="text-right">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</th>
-      <img src="/src/components/qrr.jpg" alt="" width="570" height="400"   />
+      <img src="qrr.jpg" alt="" width="570" height="400"   />
     </div>
   
       </div>
