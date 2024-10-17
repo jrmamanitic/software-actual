@@ -23,7 +23,7 @@ const Login: React.FC<LoginProps> = ({ onLogin }) => {
           
          
         </h2>
-        <img src="logo.jpg" alt="" width="400" height="400" /><br></br>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2N4sXm7Acx2ev-q6VYUI_2hoOBtANe_PFcQRZTiB9YZLKBNcTPGA1Nn8fRldwKyoha_oIEV-ee6WHcrPN40mHbTFkHG7wqILc7mZi9vSnOD-mwyEMBaqkMM-sCXX_tdBDIRyojQP2ML8MG6txPpVTu7xadnSk4CFT_tVpFdAz3pEtXeRvAw9O2JLs0Rp0/s320/logo.jpg" alt="" width="400" height="400" /><br></br>
         <form onSubmit={handleSubmit}>
           <input
             type="text"

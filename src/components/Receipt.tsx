@@ -53,9 +53,9 @@ const Receipt: React.FC<ReceiptProps> = ({ order, total, username }) => {
       <th className="text-right">Metodos de Pago (Yape o Agora) :</th><br></br>
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '60vh'}}>
         
-      <img src="yape.jpg" alt="Imagen centrada"width="400" height="200" />
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4TovV-lnhYzuJ8iFvrAvOw5TZOLjqcC9_clEPio7p_SW_ezY63sbkoh5NI3rJQ9Lax2gMj5Cer1BxlPAS0LCMeHD-XfvngBkN0xnG6ntJ5mW3YlZM-0uJtciZKBcHDC6QW6W52s7-2iZXN7Th2NgV0raI0Yy-xXA5vFYl14Agt31Mpxq3TVVW-sQPWBEM/s320/yape.jpg" alt="Imagen centrada"width="400" height="200" />
       <th className="text-right">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</th>
-      <img src="qrr.jpg" alt="" width="570" height="400"   />
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPdJVn57Gk-9r0kOGGWWXwTSwWZJKamgXpRaTUOjRnDKKOenQOdUCzCxxbU2xR05OnDCPFVQtEeYCeqiwhubY-072b8-C3L2OZunmmo4RN4cEFPFqGeNbdfj-6CdnQAZUgnICUL0hVSEFK7WatEdVZRLvaKkrDy5iRDANUUF9OxyPQqJ0ocWATHiU6B39o/s320/qrr.jpg" alt="" width="570" height="400"   />
     </div>
   
       </div>
